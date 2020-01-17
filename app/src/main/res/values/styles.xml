@@ -2,9 +2,9 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="android:colorPrimary">#E8512F</item>
-        <item name="android:colorPrimaryDark">#BA3E22</item>
-        <item name="android:colorAccent">#E8512F</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
 
         <!-- Customize Assistant components here -->
 
